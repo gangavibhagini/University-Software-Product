@@ -1,0 +1,4 @@
+Fifinella, 122454111, TRUE, 2250, Business Services
+Figaro, 221556222, TRUE, 3125.95, Student Affairs
+Pete, 226995333, FALSE, 2663.1, Academic Affairs
+

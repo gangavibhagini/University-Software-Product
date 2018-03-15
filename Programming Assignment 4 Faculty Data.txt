@@ -1,0 +1,6 @@
+Evil Queen, 226988944, TRUE, 50225, 36, Computer Science
+Ludwig Von Drake, 227788755, TRUE, 70255, 52, Computer Science
+Horace Horsecollar, 336699866, FALSE, 63221, 36, Math
+Julius the Cat, 441155277, TRUE, 81552, 36, English
+
+
